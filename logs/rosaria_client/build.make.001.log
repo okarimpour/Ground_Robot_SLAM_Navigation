@@ -1,0 +1,7 @@
+[ 14%] Built target spin_counterclockwise
+[ 42%] Built target print_state
+[ 42%] Built target teleop
+[ 85%] Built target enable_motors
+[ 85%] Built target spin_clockwise
+[ 85%] Built target go_three_second
+[100%] Built target interface

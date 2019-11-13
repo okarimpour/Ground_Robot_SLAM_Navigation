@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="mrpt_localization" pkg="mrpt_localization" type="mrpt_localization">
+  <param name="debug" type="bool" value="False" />
+</node>
+\endverbatim
+

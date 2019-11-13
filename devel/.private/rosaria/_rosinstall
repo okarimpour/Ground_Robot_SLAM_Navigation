@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/okarimpo/catkin_ws/devel/.private/rosaria/setup.sh

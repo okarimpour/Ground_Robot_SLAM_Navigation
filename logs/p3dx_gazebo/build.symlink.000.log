@@ -1,0 +1,3 @@
+Symlinking /home/okarimpo/catkin_ws/devel/lib/pkgconfig/p3dx_gazebo.pc
+Symlinking /home/okarimpo/catkin_ws/devel/share/p3dx_gazebo/cmake/p3dx_gazeboConfig-version.cmake
+Symlinking /home/okarimpo/catkin_ws/devel/share/p3dx_gazebo/cmake/p3dx_gazeboConfig.cmake

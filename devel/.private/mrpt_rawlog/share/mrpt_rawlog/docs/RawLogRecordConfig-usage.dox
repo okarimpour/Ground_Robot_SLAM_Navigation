@@ -1,0 +1,18 @@
+\subsubsection usage Usage
+\verbatim
+<node name="mrpt_rawlog" pkg="mrpt_rawlog" type="mrpt_rawlog">
+  <param name="debug" type="bool" value="False" />
+  <param name="motion_noise_type" type="int" value="0" />
+  <param name="motion_gaussian_alpha_1" type="double" value="0.034" />
+  <param name="motion_gaussian_alpha_2" type="double" value="0.057" />
+  <param name="motion_gaussian_alpha_3" type="double" value="0.014" />
+  <param name="motion_gaussian_alpha_4" type="double" value="0.097" />
+  <param name="motion_gaussian_alpha_xy" type="double" value="0.005" />
+  <param name="motion_gaussian_alpha_phi" type="double" value="0.05" />
+  <param name="bearing_range_std_range" type="double" value="0.01" />
+  <param name="bearing_range_std_yaw" type="double" value="0.01" />
+  <param name="bearing_range_std_pitch" type="double" value="0.0" />
+  <param name="sensor_frame_sync_threshold" type="double" value="0.01" />
+</node>
+\endverbatim
+

@@ -1,0 +1,8 @@
+prefix=/home/okarimpo/catkin_ws/devel/.private/mrpt_tutorials
+
+Name: mrpt_tutorials
+Description: Description of mrpt_tutorials
+Version: 0.1.23
+Cflags: 
+Libs: -L/home/okarimpo/catkin_ws/devel/.private/mrpt_tutorials/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/okarimpo/catkin_ws/devel/.private/mrpt_localization
+
+Name: mrpt_localization
+Description: Description of mrpt_localization
+Version: 0.1.23
+Cflags: -I/home/okarimpo/catkin_ws/devel/.private/mrpt_localization/include -I/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_localization/include
+Libs: -L/home/okarimpo/catkin_ws/devel/.private/mrpt_localization/lib -lmrpt_localization -lmrpt_localization_core
+Requires: roscpp tf std_msgs nav_msgs sensor_msgs mrpt_msgs mrpt_bridge pose_cov_ops dynamic_reconfigure

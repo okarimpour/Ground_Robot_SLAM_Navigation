@@ -1,0 +1,2 @@
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_rawlog/src/mrpt_rawlog_record/rawlog_record.cpp:[m[K In destructor ‘[01m[KRawlogRecord::~RawlogRecord()[m[K’:
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_rawlog/src/mrpt_rawlog_record/rawlog_record.cpp:42:73:[m[K [01;36m[Knote: [m[K#pragma message: TODO: RawlogRecord writes the rawlog only on exit (Ctrl-C)

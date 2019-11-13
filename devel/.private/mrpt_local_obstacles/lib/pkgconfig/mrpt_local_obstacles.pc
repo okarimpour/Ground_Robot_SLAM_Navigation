@@ -1,0 +1,8 @@
+prefix=/home/okarimpo/catkin_ws/devel/.private/mrpt_local_obstacles
+
+Name: mrpt_local_obstacles
+Description: Description of mrpt_local_obstacles
+Version: 0.1.23
+Cflags: 
+Libs: -L/home/okarimpo/catkin_ws/devel/.private/mrpt_local_obstacles/lib -lmrpt_local_obstacles
+Requires: dynamic_reconfigure mrpt_bridge roscpp sensor_msgs tf visualization_msgs

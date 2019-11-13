@@ -1,0 +1,29 @@
+[35m[1mScanning dependencies of target mrpt_rawlog_gencfg[0m
+[  7%] [34m[1mGenerating dynamic reconfigure files from cfg/RawLogRecord.cfg: /home/okarimpo/catkin_ws/devel/.private/mrpt_rawlog/include/mrpt_rawlog/RawLogRecordConfig.h /home/okarimpo/catkin_ws/devel/.private/mrpt_rawlog/lib/python2.7/dist-packages/mrpt_rawlog/cfg/RawLogRecordConfig.py[0m
+Generating reconfiguration files for RawLogRecord in mrpt_rawlog
+[35m[1mScanning dependencies of target mrpt_msgs_generate_messages_cpp[0m
+Wrote header file in /home/okarimpo/catkin_ws/devel/.private/mrpt_rawlog/include/mrpt_rawlog/RawLogRecordConfig.h
+[35m[1mScanning dependencies of target rawlog_play[0m
+[  7%] Built target mrpt_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rawlog_record[0m
+[  7%] Built target mrpt_rawlog_gencfg
+[ 15%] [32mBuilding CXX object CMakeFiles/rawlog_play.dir/src/mrpt_rawlog_play/rawlog_play.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/rawlog_play.dir/src/mrpt_rawlog_play/rawlog_play_parameters.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/rawlog_record.dir/src/mrpt_rawlog_record/rawlog_record.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/rawlog_record.dir/src/mrpt_rawlog_record/rawlog_record_parameters.cpp.o[0m
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_rawlog/src/mrpt_rawlog_record/rawlog_record.cpp:[m[K In destructor ‘[01m[KRawlogRecord::~RawlogRecord()[m[K’:
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_rawlog/src/mrpt_rawlog_record/rawlog_record.cpp:42:73:[m[K [01;36m[Knote: [m[K#pragma message: TODO: RawlogRecord writes the rawlog only on exit (Ctrl-C)
+[ 46%] [32m[1mLinking CXX shared library /home/okarimpo/catkin_ws/devel/.private/mrpt_rawlog/lib/librawlog_play.so[0m
+[ 53%] [32m[1mLinking CXX shared library /home/okarimpo/catkin_ws/devel/.private/mrpt_rawlog/lib/librawlog_record.so[0m
+[ 53%] Built target rawlog_play
+[35m[1mScanning dependencies of target rawlog_play_node[0m
+[ 53%] Built target rawlog_record
+[35m[1mScanning dependencies of target rawlog_record_node[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/rawlog_play_node.dir/src/rawlog_play_node.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/rawlog_play_node.dir/src/rawlog_play_node_parameters.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/rawlog_record_node.dir/src/rawlog_record_node.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/rawlog_record_node.dir/src/rawlog_record_node_parameters.cpp.o[0m
+[ 92%] [32m[1mLinking CXX executable /home/okarimpo/catkin_ws/devel/.private/mrpt_rawlog/lib/mrpt_rawlog/rawlog_play_node[0m
+[100%] [32m[1mLinking CXX executable /home/okarimpo/catkin_ws/devel/.private/mrpt_rawlog/lib/mrpt_rawlog/rawlog_record_node[0m
+[100%] Built target rawlog_play_node
+[100%] Built target rawlog_record_node

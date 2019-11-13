@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target map_server_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/map_server_node.dir/src/map_server_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/okarimpo/catkin_ws/devel/.private/mrpt_map/lib/mrpt_map/map_server_node[0m
+[100%] Built target map_server_node

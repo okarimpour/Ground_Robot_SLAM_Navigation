@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target mrpt_ekf_slam_2d[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mrpt_ekf_slam_2d.dir/src/mrpt_ekf_slam_2d_wrapper.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mrpt_ekf_slam_2d.dir/src/mrpt_ekf_slam_2d.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/mrpt_ekf_slam_2d.dir/src/mrpt_ekf_slam_2d_app.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/okarimpo/catkin_ws/devel/.private/mrpt_ekf_slam_2d/lib/mrpt_ekf_slam_2d/mrpt_ekf_slam_2d[0m
+[100%] Built target mrpt_ekf_slam_2d

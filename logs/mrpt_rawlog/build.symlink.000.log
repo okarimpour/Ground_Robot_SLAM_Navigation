@@ -1,0 +1,14 @@
+Symlinking /home/okarimpo/catkin_ws/devel/lib/librawlog_play.so
+Symlinking /home/okarimpo/catkin_ws/devel/lib/librawlog_record.so
+Symlinking /home/okarimpo/catkin_ws/devel/lib/python2.7/dist-packages/mrpt_rawlog/__init__.py
+Symlinking /home/okarimpo/catkin_ws/devel/lib/python2.7/dist-packages/mrpt_rawlog/cfg/__init__.py
+Symlinking /home/okarimpo/catkin_ws/devel/lib/python2.7/dist-packages/mrpt_rawlog/cfg/RawLogRecordConfig.py
+Symlinking /home/okarimpo/catkin_ws/devel/lib/pkgconfig/mrpt_rawlog.pc
+Symlinking /home/okarimpo/catkin_ws/devel/lib/mrpt_rawlog/rawlog_play_node
+Symlinking /home/okarimpo/catkin_ws/devel/lib/mrpt_rawlog/rawlog_record_node
+Symlinking /home/okarimpo/catkin_ws/devel/include/mrpt_rawlog/RawLogRecordConfig.h
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_rawlog/cmake/mrpt_rawlogConfig-version.cmake
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_rawlog/cmake/mrpt_rawlogConfig.cmake
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_rawlog/docs/RawLogRecordConfig.dox
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_rawlog/docs/RawLogRecordConfig.wikidoc
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_rawlog/docs/RawLogRecordConfig-usage.dox

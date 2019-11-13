@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target mrpt_reactivenav2d_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mrpt_reactivenav2d_node.dir/src/mrpt_reactivenav2d_node.cpp.o[0m
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_reactivenav2d/src/mrpt_reactivenav2d_node.cpp:[m[K In member function ‘[01m[Kvirtual bool ReactiveNav2DNode::MyReactiveInterface::getCurrentPoseAndSpeeds(mrpt::math::TPose2D&, mrpt::math::TTwist2D&, mrpt::system::TTimeStamp&, mrpt::math::TPose2D&, std::__cxx11::string&)[m[K’:
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_reactivenav2d/src/mrpt_reactivenav2d_node.cpp:170:58:[m[K [01;36m[Knote: [m[K#pragma message: TODO: Retrieve current speeds from odometry
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_reactivenav2d/src/mrpt_reactivenav2d_node.cpp:[m[K In member function ‘[01m[Kvirtual bool ReactiveNav2DNode::MyReactiveInterface::senseObstacles(mrpt::maps::CSimplePointsMap&, mrpt::system::TTimeStamp&)[m[K’:
+[01m[K/home/okarimpo/catkin_ws/src/mrpt_navigation/mrpt_reactivenav2d/src/mrpt_reactivenav2d_node.cpp:232:50:[m[K [01;36m[Knote: [m[K#pragma message: TODO: TODO: Check age of obstacles!
+[100%] [32m[1mLinking CXX executable /home/okarimpo/catkin_ws/devel/.private/mrpt_reactivenav2d/lib/mrpt_reactivenav2d/mrpt_reactivenav2d_node[0m
+[100%] Built target mrpt_reactivenav2d_node

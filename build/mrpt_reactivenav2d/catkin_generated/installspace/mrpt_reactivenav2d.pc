@@ -1,0 +1,8 @@
+prefix=/home/okarimpo/catkin_ws/install
+
+Name: mrpt_reactivenav2d
+Description: Description of mrpt_reactivenav2d
+Version: 0.1.23
+Cflags: 
+Libs: -L/home/okarimpo/catkin_ws/install/lib 
+Requires: actionlib actionlib_msgs dynamic_reconfigure geometry_msgs mrpt_bridge roscpp tf visualization_msgs

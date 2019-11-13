@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/okarimpo/catkin_ws/devel/.private/mrpt_ekf_slam_2d/setup.sh

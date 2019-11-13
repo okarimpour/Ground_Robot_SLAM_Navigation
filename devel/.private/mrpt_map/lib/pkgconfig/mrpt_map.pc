@@ -1,0 +1,8 @@
+prefix=/home/okarimpo/catkin_ws/devel/.private/mrpt_map
+
+Name: mrpt_map
+Description: Description of mrpt_map
+Version: 0.1.23
+Cflags: 
+Libs: -L/home/okarimpo/catkin_ws/devel/.private/mrpt_map/lib 
+Requires: roscpp tf std_msgs nav_msgs sensor_msgs mrpt_bridge

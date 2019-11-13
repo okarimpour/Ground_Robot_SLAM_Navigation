@@ -1,0 +1,4 @@
+Symlinking /home/okarimpo/catkin_ws/devel/lib/pkgconfig/mrpt_ekf_slam_2d.pc
+Symlinking /home/okarimpo/catkin_ws/devel/lib/mrpt_ekf_slam_2d/mrpt_ekf_slam_2d
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_ekf_slam_2d/cmake/mrpt_ekf_slam_2dConfig.cmake
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_ekf_slam_2d/cmake/mrpt_ekf_slam_2dConfig-version.cmake

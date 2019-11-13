@@ -1,0 +1,8 @@
+prefix=/home/okarimpo/catkin_ws/devel/.private/rosaria_client
+
+Name: rosaria_client
+Description: Description of rosaria_client
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/okarimpo/catkin_ws/devel/.private/rosaria_client/lib 
+Requires: 

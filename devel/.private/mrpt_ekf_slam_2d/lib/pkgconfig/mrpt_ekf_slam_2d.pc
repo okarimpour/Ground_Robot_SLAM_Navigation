@@ -1,0 +1,8 @@
+prefix=/home/okarimpo/catkin_ws/devel/.private/mrpt_ekf_slam_2d
+
+Name: mrpt_ekf_slam_2d
+Description: Description of mrpt_ekf_slam_2d
+Version: 0.1.8
+Cflags: 
+Libs: -L/home/okarimpo/catkin_ws/devel/.private/mrpt_ekf_slam_2d/lib 
+Requires: nav_msgs sensor_msgs std_msgs visualization_msgs

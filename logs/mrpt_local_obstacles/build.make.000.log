@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target mrpt_local_obstacles_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mrpt_local_obstacles_node.dir/src/mrpt_local_obstacles_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/okarimpo/catkin_ws/devel/.private/mrpt_local_obstacles/lib/mrpt_local_obstacles/mrpt_local_obstacles_node[0m
+[100%] Built target mrpt_local_obstacles_node

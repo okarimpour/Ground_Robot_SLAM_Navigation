@@ -1,0 +1,4 @@
+Symlinking /home/okarimpo/catkin_ws/devel/lib/pkgconfig/mrpt_reactivenav2d.pc
+Symlinking /home/okarimpo/catkin_ws/devel/lib/mrpt_reactivenav2d/mrpt_reactivenav2d_node
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_reactivenav2d/cmake/mrpt_reactivenav2dConfig.cmake
+Symlinking /home/okarimpo/catkin_ws/devel/share/mrpt_reactivenav2d/cmake/mrpt_reactivenav2dConfig-version.cmake
